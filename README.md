@@ -38,31 +38,7 @@ Currently building a strong foundation in programming and problem-solving.
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankgupta09&show_icons=true&theme=tokyonight" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankgupta09&layout=compact&theme=tokyonight" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashankgupta09&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Shashankgupta09&theme=onedark)
-
----
 
 ## 👀 Profile Views
 
