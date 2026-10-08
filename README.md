@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Roll%20No-RA2411026030008-0f2027?style=flat-square" />
   <img src="https://img.shields.io/badge/CGPA-8.71-00D4FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Batch-2024--2028-2c5364?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square" />
@@ -16,21 +15,26 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 whoami
 
 ```python
 class Shashank:
     def __init__(self):
-        self.name      = "Shashank Gupta"
-        self.degree    = "B.Tech, Artificial Intelligence & Machine Learning"
-        self.college   = "SRM Institute of Science and Technology, Modinagar"
-        self.role      = "ML Intern @ Future Interns (Nov–Dec 2025)"
-        self.focus     = ["Machine Learning", "NLP", "Robotics / World Models", "Speech Emotion Recognition"]
-        self.learning  = ["SQL", "Deep Learning", "Research Writing"]
-        self.goal      = "Become an AI/ML Engineer"
+        self.name     = "Shashank Gupta"
+        self.degree   = "B.Tech, AI & Machine Learning"
+        self.college  = "SRM IST, Modinagar"
+        self.role     = "ML Intern @ Future Interns"
+        self.focus    = [
+            "Machine Learning",
+            "NLP",
+            "Robotics / World Models",
+            "Speech Emotion Recognition",
+        ]
+        self.learning = ["SQL", "Deep Learning", "Research Writing"]
+        self.goal     = "Become an AI/ML Engineer"
 
     def say_hi(self):
-        return "Let's build something intelligent. 🤝"
+        return "Let's build something intelligent."
 ```
 
 ---
