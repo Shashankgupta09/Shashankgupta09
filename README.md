@@ -18,7 +18,7 @@
 
 ## 🧠 `whoami`
 
-
+```python
 class Shashank:
     def __init__(self):
         self.name      = "Shashank Gupta"
