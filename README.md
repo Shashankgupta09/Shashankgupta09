@@ -16,9 +16,7 @@
 
 ---
 
-## 🧠 `whoami`
 
-```python
 class Shashank:
     def __init__(self):
         self.name      = "Shashank Gupta"
@@ -29,11 +27,7 @@ class Shashank:
         self.learning  = ["SQL", "Deep Learning", "Research Writing"]
         self.goal      = "Become an AI/ML Engineer"
 
-    def say_hi(self):
-        return "Let's build something intelligent. 🤝"
-```
-
----
+    
 
 ## 🛠️ Tech Stack
 
